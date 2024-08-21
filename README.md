@@ -1,3 +1,4 @@
+```
 Wraps your text in a box
 
 Example:
@@ -11,3 +12,4 @@ user@computer:~/boxwrap$ ./boxwrap file.txt
 | Hello, World! |
 |               |
 +---------------+
+```
